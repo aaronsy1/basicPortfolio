@@ -1,0 +1,36 @@
+
+.header
+{
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-color: #666666;
+    border-width: 2px;
+}
+
+a
+    {
+        color: #777777;
+    }
+ul {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 50%;
+   }
+
+li {
+    display: inline;
+    color: #777777;
+   }
+
+.mainHeader
+{   
+    display: inline-block;
+    border-style: solid;
+    border-color: #cccccc;
+    border-width: 2px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 10%;
+    padding: 3px;
+    margin-left: 5%;
+    }
